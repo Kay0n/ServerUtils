@@ -1,0 +1,10 @@
+main: online.refract.ServerUtils.Main
+name: ServerUtils
+version: 1.0
+author: Kayon
+
+commands: 
+  Dev:
+  Tpa:
+  Tpaccept:
+  Tpahere:
